@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/titaniumac1/.dotnet/store/|arch|/|tfm|",
+      "/Users/titaniumac1/.nuget/packages"
+    ]
+  }
+}
