@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/titaniumac1/Documents/sellenium_c_mas/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto.csproj": {}
+    "/Users/titaniumac1/Documents/sellenium_c_mas/PruebasSelenium/Primer_Proyecto/Primer_Proyecto.csproj": {}
   },
   "projects": {
-    "/Users/titaniumac1/Documents/sellenium_c_mas/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto.csproj": {
+    "/Users/titaniumac1/Documents/sellenium_c_mas/PruebasSelenium/Primer_Proyecto/Primer_Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/titaniumac1/Documents/sellenium_c_mas/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto.csproj",
+        "projectUniqueName": "/Users/titaniumac1/Documents/sellenium_c_mas/PruebasSelenium/Primer_Proyecto/Primer_Proyecto.csproj",
         "projectName": "Primer_Proyecto",
-        "projectPath": "/Users/titaniumac1/Documents/sellenium_c_mas/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto.csproj",
+        "projectPath": "/Users/titaniumac1/Documents/sellenium_c_mas/PruebasSelenium/Primer_Proyecto/Primer_Proyecto.csproj",
         "packagesPath": "/Users/titaniumac1/.nuget/packages/",
-        "outputPath": "/Users/titaniumac1/Documents/sellenium_c_mas/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto/obj/",
+        "outputPath": "/Users/titaniumac1/Documents/sellenium_c_mas/PruebasSelenium/Primer_Proyecto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/titaniumac1/.config/NuGet/NuGet.Config"

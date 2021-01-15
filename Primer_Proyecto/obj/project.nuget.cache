@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7TpbrMI25AMcw4OeYmL8st5wj9KBujObgm8d80Lsneb+gVFPHvgMqECCOJZ3021q+DP5lyJgHgEJ9FX2HqHgQ==",
+  "dgSpecHash": "v7fGSDfaWnuDyeSMeZsPEUwR1feNe83wGMtiFNTdxu2VkCV43kMA5OwaKHng9kd6rW2j3J+9bLcLjX93Y5d8lQ==",
   "success": true,
-  "projectFilePath": "/Users/titaniumac1/Documents/sellenium_c_mas/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto/Primer_Proyecto.csproj",
+  "projectFilePath": "/Users/titaniumac1/Documents/sellenium_c_mas/PruebasSelenium/Primer_Proyecto/Primer_Proyecto.csproj",
   "expectedPackageFiles": [
     "/Users/titaniumac1/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/titaniumac1/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
