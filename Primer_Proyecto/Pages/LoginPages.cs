@@ -5,9 +5,9 @@ namespace Primer_Proyecto
 {
     public class LoginPages : DriverHelper
     {
-        IWebElement textUserName => Driver.FindElement(By.Name("Username"));
-        IWebElement textPassWord => Driver.FindElement(By.Name("Password"));
-        IWebElement btnLogin => Driver.FindElement(By.Name("Log in"));
+        IWebElement textUserName => Driver.FindElement(By.XPath("//*[@id='UserName']"));
+        IWebElement textPassWord => Driver.FindElement(By.XPath("//*[@id='Password']"));
+        IWebElement btnLogin => Driver.FindElement(By.XPath("//*[@id='loginForm']/form/div[4]/div/input"));
         
         public void EnterUserNameAndPasword(string userName, string passWord)
         {

@@ -1,7 +1,7 @@
 using System;
 using NUnit.Framework;
 using OpenQA.Selenium;
-//using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Safari;
 using Primer_Proyecto.Pages;
 
@@ -13,7 +13,7 @@ namespace Primer_Proyecto
         public void Setup()
         {
             Console.WriteLine("Setup");
-            Driver = new SafariDriver();
+            Driver = new ChromeDriver();
         }
 
         [Test]
@@ -52,7 +52,9 @@ namespace Primer_Proyecto
             homePage.ClickLogin();
 
             loginPages.EnterUserNameAndPasword("admin","password");
-            loginPages.ClickLogin(); 
+            loginPages.ClickLogin();
+
+            //Assert.That(homePage.IsLogOffExist(), Is.True,"Log off button doesn't displayed");
 
         }
     }
