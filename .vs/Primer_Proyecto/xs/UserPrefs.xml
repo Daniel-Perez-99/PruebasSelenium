@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{0C05F400-526C-45E4-A4C9-3135A3158A08}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Primer_Proyecto/Pages/LoginPages.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Primer_Proyecto/Feature/Login.feature">
     <Files>
-      <File FileName="Primer_Proyecto/UnitTest1.cs" Line="19" Column="15" />
+      <File FileName="Primer_Proyecto/UnitTest1.cs" Line="16" Column="13" />
       <File FileName="Primer_Proyecto/DriverHelper.cs" />
       <File FileName="Primer_Proyecto/CustomControl.cs" />
-      <File FileName="Primer_Proyecto/Pages/LoginPages.cs" Line="10" Column="71" />
+      <File FileName="Primer_Proyecto/Pages/LoginPages.cs" />
       <File FileName="Primer_Proyecto/Pages/HomePage.cs" />
+      <File FileName="Primer_Proyecto/Steps/LoginSteps.cs" />
+      <File FileName="Primer_Proyecto/Feature/Login.feature" Line="7" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,18 +15,20 @@
           <Node name="Primer_Proyecto" expanded="True">
             <Node name="Primer_Proyecto" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" selected="True" />
               </Node>
-              <Node name="Pages" expanded="True">
-                <Node name="LoginPages.cs" selected="True" />
-              </Node>
+              <Node name="Feature" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Steps" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Primer_Proyecto" expanded="True" selected="True" />
+          <Node name="Primer_Proyecto" expanded="True" selected="True">
+            <Node name="Primer_Proyecto" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
